@@ -18,3 +18,9 @@ Q1. Sort a given set of elements using the
     elements
     can be read from a file or can be generated
     using the random number generator.
+    
+Q2. Print all the nodes reachable from a given
+    starting node in a digraph using BFS
+    method
+
+Q3. 
