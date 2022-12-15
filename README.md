@@ -16,4 +16,4 @@ Q2.[Print all the nodes reachable from a given starting node in a digraph using 
 Q3. [From a given vertex in a weighted connected graph, find shortest paths to other vertices using Dijkstra's algorithm](#faqs)
 
 # Lab_Cycle_2
-Q1.[implement Bellman Ford’s Algorithm.]
+Q1.[implement Bellman Ford’s Algorithm](https://github.com/abhishekmohank/DAA/blob/main/Lab_Cycle_2/Q1_Bellman_ford.cpp)
