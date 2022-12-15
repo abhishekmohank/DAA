@@ -8,14 +8,9 @@ Integrated M.Sc in Computer Science ( AI & DS )
 semester-3
 
     
-[Q1. Sort a given set of elements using the Quicksort method Determine the time required to sort the elements. Repeat the experiment for different values of n, the number of elements in the list to be sorted and plot a graph of the time taken versus n. The elements can be read from a file or can be generated using the random number generator.](#faqs)
+ Q1.[Sort a given set of elements using the Quicksort method Determine the time required to sort the elements. Repeat the experiment for different values of n, the number of elements in the list to be sorted and plot a graph of the time taken versus n. The elements can be read from a file or can be generated using the random number generator.](#faqs)
 
     
-Q2. Print all the nodes reachable from a given
-    starting node in a digraph using BFS
-    method
+Q2.[Print all the nodes reachable from a given starting node in a digraph using BFS method ](#faqa)
 
-Q3. From a given vertex in a weighted
-    connected graph, find shortest paths to
-    other vertices
-    using Dijkstra's algorithm
+Q3. [From a given vertex in a weighted connected graph, find shortest paths to other vertices using Dijkstra's algorithm](#faqs)
