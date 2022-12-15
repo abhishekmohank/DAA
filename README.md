@@ -23,4 +23,7 @@ Q2. Print all the nodes reachable from a given
     starting node in a digraph using BFS
     method
 
-Q3. 
+Q3. From a given vertex in a weighted
+    connected graph, find shortest paths to
+    other vertices
+    using Dijkstra's algorithm
