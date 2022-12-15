@@ -7,7 +7,7 @@ Integrated M.Sc in Computer Science ( AI & DS )
 
 semester-3
 
-# Lab_Cycle_1    
+# Lab_Cycle_1   (https://github.com/abhishekmohank/DAA/tree/main/Lab_Cycle_1)
  Q1.[Sort a given set of elements using the Quicksort method Determine the time required to sort the elements. Repeat the experiment for different values of n, the number of elements in the list to be sorted and plot a graph of the time taken versus n. The elements can be read from a file or can be generated using the random number generator.](https://github.com/abhishekmohank/DAA/blob/main/Lab_Cycle_1/Q1_DA.cpp)
 
     
